@@ -11,20 +11,43 @@
     float: left;
     display: inline;    
     width: 620px;    
-    height: 550px; 
-    background-color: teal;
+    height: 600px;     
 }
 .homechild2{
     float: right;
     display: inline;    
     width: 620px;    
-    height: 550px;    
-    background-color: blueviolet;
+    height: 600px;    
+}
+.homechildone{
+    width: 620px;    
+    height: 300px;
+}
+.imgone{    
+    float: left;
+    display: inline;
+    width: 300px; 
+    height: 300px;
+    padding-left: 30px; 
+    padding-top: 30px;     
+}
+img{
+    width: 250px; 
+    height: 200px;
+}
+.word{
+    float: right;
+    display: inline; 
+    width: 300px; 
+    height: 300px; 
+    padding-left: 30px; 
+    padding-top: 30px; 
+}
+h2{    
+    font-family: Arial, Helvetica, sans-serif; 
+}
+h3{
+    padding-top: 50px;
+
 }
 
-.imgleft{
-    display: inline;
-    float: left;
-    width: 310px;    
-    height: 550px;  
-}
