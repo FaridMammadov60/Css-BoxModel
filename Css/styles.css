@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.homechild{
+    display: inline;
+    float: left;
+    width: 500px;    
+    height: 550px;
+    background-color: teal;
+
+}
+.homechild1{
+    display: inline;
+    float: right;
+}

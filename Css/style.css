@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.homechild {
+    padding: 50px;
+    float: left;
+}
+
+.homechild h2,
+p {
+    display: inline;
+}
+
+.content {
+    display: block;
+    max-width: 500px;
+    font-size: 18px;
+}
+
+.header {
+    width: 100px;
+    padding-bottom: 20px;
+}
+
+.header2 {
+    display: block;
+    padding: 5px;
+}
+
+img {
+    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.homechild1 {
+    width: 408px;
+    float: right;
+    display: inline;
+    padding-right: 150px;
+    padding-top: 50px;
+}
+
+.boxing {
+    width: 200px;
+    height: 200px;
+    border: ridge;
+    
+}
+
+.boxingdiv {
+    float: left;
+    display: inline;
+}
+
+.boxingdiv1 {
+    float: right;
+    display: inline;
+}
+
+h3 {
+    margin-top: 50px;
+    padding-left: 10px;
+}
+
+.imagecolor {
+    padding-bottom: 20px;
+    padding-top: 0;
+    padding-left: 0;
+}
+
+#box1:hover {
+    background-color: blue;
+    transform: scale(1.1);
+    transition: 500ms;
+}
+
+#box2:hover {
+    background-color: yellow;
+    transform: scale(1.1);
+    transition: 500ms;
+}
+#box3:hover {
+    background-color: yellowgreen;
+    transform: scale(1.1);
+    transition: 500ms;
+}
+#box4:hover {
+    background-color: purple;
+    transform: scale(1.1);
+    transition: 500ms;
+}
+
+
