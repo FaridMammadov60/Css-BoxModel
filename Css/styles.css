@@ -3,15 +3,28 @@
     margin: 0;
     box-sizing: border-box;
 }
+.home{
+    width: 1250px;    
+    height: 600px; 
+}
 .homechild{
+    float: left;
+    display: inline;    
+    width: 620px;    
+    height: 550px; 
+    background-color: teal;
+}
+.homechild2{
+    float: right;
+    display: inline;    
+    width: 620px;    
+    height: 550px;    
+    background-color: blueviolet;
+}
+
+.imgleft{
     display: inline;
     float: left;
-    width: 500px;    
-    height: 550px;
-    background-color: teal;
-
-}
-.homechild1{
-    display: inline;
-    float: right;
+    width: 310px;    
+    height: 550px;  
 }
